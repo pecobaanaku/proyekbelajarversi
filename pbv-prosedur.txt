@@ -3,3 +3,4 @@ Pembelajaran Proyek Belajar Versi:
 - Bisa belajar kolaborasi dengan teman
 - Bisa belajar perubahan
 - Belajar branch dam merge
+- Kalo bisa belajar sampai pakai Git
